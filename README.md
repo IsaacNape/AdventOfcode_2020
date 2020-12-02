@@ -1,2 +1,2 @@
 # AdventTocode
-My solutions to AdventofCode problems
+My solutions to AdventofCode problems in Jupyter notebooks.
